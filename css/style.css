@@ -3,6 +3,8 @@
 @font-face{
   font-family: "Futura LT";
   src: url('../assets/fonts/FuturaLT.ttf');
+  font-family: "Futura LT Bold";
+  src: url('../assets/fonts/FuturaLT-Bold.ttf');
 }
 
 *{
