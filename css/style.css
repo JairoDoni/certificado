@@ -9,7 +9,7 @@ html,
 body,
 p {
   overflow: visible;
-  font: 1.3rem Lexend, sans-serif;
+  font: 1.4rem Lexend, sans-serif;
   width: 100%;
   height: auto;
 }
@@ -59,6 +59,7 @@ iframe {
 }
 /*__Menu__*/
 .header {
+  font: 2rem Lexend, sans-serif;
   font-size: 1.5rem;
   background: #333333;
   color: #f7f7f7;
@@ -74,7 +75,6 @@ iframe {
 .menu {
   background: #333333;
   display: flex;
-  font-weight: 400;
 }
 
 .menu li:first-child {
@@ -104,6 +104,7 @@ iframe {
 
 .dropdown .dropbtn {
   font-size: 0.9rem;
+  font-weight: 500;
   border: none;
   outline: none;
   color: #c4c4c4;
